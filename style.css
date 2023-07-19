@@ -23,7 +23,7 @@ body {
 }
 
 .main-heading h1{
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 button {
@@ -47,5 +47,5 @@ button {
     
   }
 img{
-    width:200px;
+    width:250px;
 }
