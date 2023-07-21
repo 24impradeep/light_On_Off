@@ -30,13 +30,18 @@ button {
     display: inline-block;
     background: #010b14;
     color: #f4f4f4;
+    border:0;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1), 0 6px rgba(0,0,0,0.1);
     font-size: 16px;
     font-weight: normal;
     text-align: center;
-    border-radius: 5px;
     transition: 400ms;
     text-decoration: none;
-    padding: 15px;
+    padding: 12px ;
+    cursor: pointer;
+    outline: none;
+
     z-index: 100000;
     
   }
